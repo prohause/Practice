@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Petar'sGame\bin\Debug\Petar'sGame.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Petar'sGame\bin\Debug\Petar'sGame.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Petar'sGame\bin\Debug\Petar'sGame.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Petar'sGame\obj\Debug\Petar'sGame.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Petar'sGame\obj\Debug\Petar'sGame.pdb

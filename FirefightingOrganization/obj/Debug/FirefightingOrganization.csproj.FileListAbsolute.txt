@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\FirefightingOrganization\bin\Debug\FirefightingOrganization.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\FirefightingOrganization\bin\Debug\FirefightingOrganization.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\FirefightingOrganization\bin\Debug\FirefightingOrganization.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\FirefightingOrganization\obj\Debug\FirefightingOrganization.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\FirefightingOrganization\obj\Debug\FirefightingOrganization.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\FirefightingOrganization\obj\Debug\FirefightingOrganization.pdb

@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ShuffleBits\bin\Debug\ShuffleBits.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ShuffleBits\bin\Debug\ShuffleBits.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ShuffleBits\bin\Debug\ShuffleBits.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ShuffleBits\obj\Debug\ShuffleBits.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ShuffleBits\obj\Debug\ShuffleBits.pdb

@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.pdb

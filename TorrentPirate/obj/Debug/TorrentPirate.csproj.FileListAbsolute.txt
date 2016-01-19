@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TorrentPirate\bin\Debug\TorrentPirate.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TorrentPirate\bin\Debug\TorrentPirate.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TorrentPirate\bin\Debug\TorrentPirate.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TorrentPirate\obj\Debug\TorrentPirate.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TorrentPirate\obj\Debug\TorrentPirate.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TorrentPirate\obj\Debug\TorrentPirate.pdb

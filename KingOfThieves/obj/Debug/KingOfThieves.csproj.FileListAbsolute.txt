@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\KingOfThieves\bin\Debug\KingOfThieves.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\KingOfThieves\bin\Debug\KingOfThieves.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\KingOfThieves\bin\Debug\KingOfThieves.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\KingOfThieves\obj\Debug\KingOfThieves.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\KingOfThieves\obj\Debug\KingOfThieves.pdb

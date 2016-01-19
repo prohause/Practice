@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PhoneProcesses\bin\Debug\PhoneProcesses.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PhoneProcesses\bin\Debug\PhoneProcesses.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PhoneProcesses\bin\Debug\PhoneProcesses.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PhoneProcesses\obj\Debug\PhoneProcesses.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PhoneProcesses\obj\Debug\PhoneProcesses.pdb

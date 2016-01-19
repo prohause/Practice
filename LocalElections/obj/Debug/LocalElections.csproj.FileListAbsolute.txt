@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LocalElections\bin\Debug\LocalElections.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LocalElections\bin\Debug\LocalElections.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LocalElections\bin\Debug\LocalElections.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LocalElections\obj\Debug\LocalElections.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LocalElections\obj\Debug\LocalElections.pdb

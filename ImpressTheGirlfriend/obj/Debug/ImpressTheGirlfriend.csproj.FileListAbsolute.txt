@@ -1,0 +1,12 @@
+D:\Exercise\PracticalExam\ImpressTheGirlfriend\bin\Debug\ImpressTheGirlfriend.exe.config
+D:\Exercise\PracticalExam\ImpressTheGirlfriend\bin\Debug\ImpressTheGirlfriend.exe
+D:\Exercise\PracticalExam\ImpressTheGirlfriend\bin\Debug\ImpressTheGirlfriend.pdb
+D:\Exercise\PracticalExam\ImpressTheGirlfriend\obj\Debug\ImpressTheGirlfriend.csprojResolveAssemblyReference.cache
+D:\Exercise\PracticalExam\ImpressTheGirlfriend\obj\Debug\ImpressTheGirlfriend.exe
+D:\Exercise\PracticalExam\ImpressTheGirlfriend\obj\Debug\ImpressTheGirlfriend.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ImpressTheGirlfriend\bin\Debug\ImpressTheGirlfriend.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ImpressTheGirlfriend\bin\Debug\ImpressTheGirlfriend.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ImpressTheGirlfriend\bin\Debug\ImpressTheGirlfriend.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ImpressTheGirlfriend\obj\Debug\ImpressTheGirlfriend.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ImpressTheGirlfriend\obj\Debug\ImpressTheGirlfriend.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ImpressTheGirlfriend\obj\Debug\ImpressTheGirlfriend.pdb

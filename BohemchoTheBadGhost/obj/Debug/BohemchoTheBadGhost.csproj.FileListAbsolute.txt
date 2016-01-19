@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.pdb

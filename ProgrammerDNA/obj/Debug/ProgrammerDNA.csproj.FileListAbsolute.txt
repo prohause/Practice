@@ -1,0 +1,12 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProgrammerDNA\bin\Debug\ProgrammerDNA.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProgrammerDNA\bin\Debug\ProgrammerDNA.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProgrammerDNA\bin\Debug\ProgrammerDNA.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProgrammerDNA\obj\Debug\ProgrammerDNA.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProgrammerDNA\obj\Debug\ProgrammerDNA.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProgrammerDNA\obj\Debug\ProgrammerDNA.pdb
+D:\Exercise\PracticalExam\ProgrammerDNA\bin\Debug\ProgrammerDNA.exe.config
+D:\Exercise\PracticalExam\ProgrammerDNA\obj\Debug\ProgrammerDNA.exe
+D:\Exercise\PracticalExam\ProgrammerDNA\obj\Debug\ProgrammerDNA.pdb
+D:\Exercise\PracticalExam\ProgrammerDNA\bin\Debug\ProgrammerDNA.exe
+D:\Exercise\PracticalExam\ProgrammerDNA\bin\Debug\ProgrammerDNA.pdb
+D:\Exercise\PracticalExam\ProgrammerDNA\obj\Debug\ProgrammerDNA.csprojResolveAssemblyReference.cache

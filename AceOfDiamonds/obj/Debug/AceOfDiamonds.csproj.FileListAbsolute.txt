@@ -1,0 +1,12 @@
+D:\Exercise\PracticalExam\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe.config
+D:\Exercise\PracticalExam\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe
+D:\Exercise\PracticalExam\AceOfDiamonds\bin\Debug\AceOfDiamonds.pdb
+D:\Exercise\PracticalExam\AceOfDiamonds\obj\Debug\AceOfDiamonds.csprojResolveAssemblyReference.cache
+D:\Exercise\PracticalExam\AceOfDiamonds\obj\Debug\AceOfDiamonds.exe
+D:\Exercise\PracticalExam\AceOfDiamonds\obj\Debug\AceOfDiamonds.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\AceOfDiamonds\bin\Debug\AceOfDiamonds.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\AceOfDiamonds\obj\Debug\AceOfDiamonds.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\AceOfDiamonds\obj\Debug\AceOfDiamonds.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\AceOfDiamonds\obj\Debug\AceOfDiamonds.pdb

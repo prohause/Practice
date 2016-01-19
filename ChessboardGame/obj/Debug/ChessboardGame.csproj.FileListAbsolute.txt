@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChessboardGame\bin\Debug\ChessboardGame.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChessboardGame\bin\Debug\ChessboardGame.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChessboardGame\bin\Debug\ChessboardGame.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChessboardGame\obj\Debug\ChessboardGame.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChessboardGame\obj\Debug\ChessboardGame.pdb

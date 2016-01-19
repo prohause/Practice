@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LightTheTorches\bin\Debug\LightTheTorches.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LightTheTorches\bin\Debug\LightTheTorches.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LightTheTorches\bin\Debug\LightTheTorches.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LightTheTorches\obj\Debug\LightTheTorches.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LightTheTorches\obj\Debug\LightTheTorches.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\LightTheTorches\obj\Debug\LightTheTorches.pdb

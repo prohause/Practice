@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\GrandTheftExamo\bin\Debug\GrandTheftExamo.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\GrandTheftExamo\bin\Debug\GrandTheftExamo.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\GrandTheftExamo\bin\Debug\GrandTheftExamo.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\GrandTheftExamo\obj\Debug\GrandTheftExamo.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\GrandTheftExamo\obj\Debug\GrandTheftExamo.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\GrandTheftExamo\obj\Debug\GrandTheftExamo.pdb

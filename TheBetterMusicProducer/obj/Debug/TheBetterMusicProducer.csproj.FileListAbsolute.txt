@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.pdb

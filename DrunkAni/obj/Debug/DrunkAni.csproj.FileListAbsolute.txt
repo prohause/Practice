@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DrunkAni\bin\Debug\DrunkAni.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DrunkAni\bin\Debug\DrunkAni.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DrunkAni\bin\Debug\DrunkAni.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DrunkAni\obj\Debug\DrunkAni.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DrunkAni\obj\Debug\DrunkAni.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DrunkAni\obj\Debug\DrunkAni.pdb

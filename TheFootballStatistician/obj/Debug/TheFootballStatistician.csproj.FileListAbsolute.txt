@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheFootballStatistician\bin\Debug\TheFootballStatistician.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheFootballStatistician\bin\Debug\TheFootballStatistician.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheFootballStatistician\bin\Debug\TheFootballStatistician.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheFootballStatistician\obj\Debug\TheFootballStatistician.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheFootballStatistician\obj\Debug\TheFootballStatistician.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TheFootballStatistician\obj\Debug\TheFootballStatistician.pdb

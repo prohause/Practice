@@ -1,0 +1,12 @@
+D:\Exercise\PracticalExam\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe.config
+D:\Exercise\PracticalExam\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe
+D:\Exercise\PracticalExam\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.pdb
+D:\Exercise\PracticalExam\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.csprojResolveAssemblyReference.cache
+D:\Exercise\PracticalExam\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.exe
+D:\Exercise\PracticalExam\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.pdb

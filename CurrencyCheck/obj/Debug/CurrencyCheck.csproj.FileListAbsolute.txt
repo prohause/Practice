@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\CurrencyCheck\bin\Debug\CurrencyCheck.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\CurrencyCheck\bin\Debug\CurrencyCheck.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\CurrencyCheck\bin\Debug\CurrencyCheck.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\CurrencyCheck\obj\Debug\CurrencyCheck.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\CurrencyCheck\obj\Debug\CurrencyCheck.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\CurrencyCheck\obj\Debug\CurrencyCheck.pdb

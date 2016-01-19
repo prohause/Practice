@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\StripedTowel\bin\Debug\StripedTowel.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\StripedTowel\bin\Debug\StripedTowel.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\StripedTowel\bin\Debug\StripedTowel.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\StripedTowel\obj\Debug\StripedTowel.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\StripedTowel\obj\Debug\StripedTowel.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\StripedTowel\obj\Debug\StripedTowel.pdb

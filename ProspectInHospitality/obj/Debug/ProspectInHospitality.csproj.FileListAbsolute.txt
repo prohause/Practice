@@ -1,0 +1,12 @@
+D:\Exercise\PracticalExam\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe.config
+D:\Exercise\PracticalExam\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe
+D:\Exercise\PracticalExam\ProspectInHospitality\bin\Debug\ProspectInHospitality.pdb
+D:\Exercise\PracticalExam\ProspectInHospitality\obj\Debug\ProspectInHospitality.csprojResolveAssemblyReference.cache
+D:\Exercise\PracticalExam\ProspectInHospitality\obj\Debug\ProspectInHospitality.exe
+D:\Exercise\PracticalExam\ProspectInHospitality\obj\Debug\ProspectInHospitality.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProspectInHospitality\obj\Debug\ProspectInHospitality.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProspectInHospitality\obj\Debug\ProspectInHospitality.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProspectInHospitality\bin\Debug\ProspectInHospitality.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ProspectInHospitality\obj\Debug\ProspectInHospitality.csprojResolveAssemblyReference.cache

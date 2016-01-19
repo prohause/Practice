@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PerfectGirlfriend\bin\Debug\PerfectGirlfriend.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PerfectGirlfriend\bin\Debug\PerfectGirlfriend.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PerfectGirlfriend\bin\Debug\PerfectGirlfriend.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PerfectGirlfriend\obj\Debug\PerfectGirlfriend.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PerfectGirlfriend\obj\Debug\PerfectGirlfriend.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PerfectGirlfriend\obj\Debug\PerfectGirlfriend.pdb

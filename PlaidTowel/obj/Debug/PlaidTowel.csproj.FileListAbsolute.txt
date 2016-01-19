@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PlaidTowel\bin\Debug\PlaidTowel.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PlaidTowel\bin\Debug\PlaidTowel.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PlaidTowel\bin\Debug\PlaidTowel.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PlaidTowel\obj\Debug\PlaidTowel.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\PlaidTowel\obj\Debug\PlaidTowel.pdb

@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\MagicWand\bin\Debug\MagicWand.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\MagicWand\bin\Debug\MagicWand.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\MagicWand\bin\Debug\MagicWand.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\MagicWand\obj\Debug\MagicWand.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\MagicWand\obj\Debug\MagicWand.pdb

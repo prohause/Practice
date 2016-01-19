@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChristmasTree\bin\Debug\ChristmasTree.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChristmasTree\bin\Debug\ChristmasTree.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChristmasTree\obj\Debug\ChristmasTree.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\ChristmasTree\obj\Debug\ChristmasTree.pdb

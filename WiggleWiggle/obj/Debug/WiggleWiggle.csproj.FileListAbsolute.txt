@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WiggleWiggle\bin\Debug\WiggleWiggle.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WiggleWiggle\bin\Debug\WiggleWiggle.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WiggleWiggle\bin\Debug\WiggleWiggle.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WiggleWiggle\obj\Debug\WiggleWiggle.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WiggleWiggle\obj\Debug\WiggleWiggle.pdb

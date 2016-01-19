@@ -1,0 +1,5 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Sunlight\bin\Debug\Sunlight.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Sunlight\bin\Debug\Sunlight.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Sunlight\bin\Debug\Sunlight.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Sunlight\obj\Debug\Sunlight.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\Sunlight\obj\Debug\Sunlight.pdb

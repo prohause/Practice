@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WaveBits\bin\Debug\WaveBits.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WaveBits\obj\Debug\WaveBits.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WaveBits\bin\Debug\WaveBits.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WaveBits\bin\Debug\WaveBits.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WaveBits\obj\Debug\WaveBits.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\WaveBits\obj\Debug\WaveBits.pdb

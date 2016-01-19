@@ -1,0 +1,6 @@
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DreamItem\bin\Debug\DreamItem.exe.config
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DreamItem\bin\Debug\DreamItem.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DreamItem\bin\Debug\DreamItem.pdb
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DreamItem\obj\Debug\DreamItem.csprojResolveAssemblyReference.cache
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DreamItem\obj\Debug\DreamItem.exe
+C:\Users\proha\OneDrive\Softuni2015\Exercise\PracticalExam\DreamItem\obj\Debug\DreamItem.pdb
